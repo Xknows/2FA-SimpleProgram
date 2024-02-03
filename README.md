@@ -1,0 +1,2 @@
+Well, if you don't have access to your phone and wanna login to your account anywhere that provides a 2FA-secret code, you can take advantage of these codes e.g. in Github you can  insert **setup code** from "[here](https://github.com/settings/security?type=app#two-factor-summary)/Two-factor methods/Authenticator app" in read.txt file or feed directly.<br/>
+To install python packages run ```pip install pyotp ``` and ```pip install time``` in your terminal.
